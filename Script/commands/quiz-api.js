@@ -1,0 +1,1 @@
+{"question":"কোন খেলার সাথে 'ফ্রিজ টাইম' শব্দটি যুক্ত?","A":"হকি","B":"বাস্কেটবল","C":"ফুটবল","D":"ভলিবল","answer":"A","totalQuestions":569,"author":{"name":"RUBISH","contact":"https://www.facebook.com/I.LOVE.YOU.MY.HATER"}}
