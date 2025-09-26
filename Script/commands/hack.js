@@ -6,7 +6,7 @@ module.exports = {
  config: {
  name: "hack",
  version: "1.0.3",
- hasPermssion: 2,
+ hasPermssion: 1,
  usePrefix: true,
  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑀_ ☢️",
  description: "Prank friends with hack simulation",
