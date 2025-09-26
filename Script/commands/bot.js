@@ -143,7 +143,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️Kiss Randi Ka Name Le Ke Mood Khrab Kr Diya.🙄 Dubara Naam Mat Lena Iska", threadID);
    };
 
-   if ((event.body.toLowerCase() == "cudi") || (event.body.toLowerCase() == "tor nanire xudi")) {
+   if ((event.body.toLowerCase() == "চুদি") || (event.body.toLowerCase() == "tor nanire xudi")) {
      return api.sendMessage("️এত চোদা চুদি করস কেনো তোর টুনটুনি আছে তো থাকলেও তোর ১ ইঞ্চি টুনটুনিতে কোনো কাজ হবে না..!🥱🤣🌚⛏️🌶️ ", threadID);
    };
 
