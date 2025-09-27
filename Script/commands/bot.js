@@ -67,11 +67,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "তোর বস কে") || (event.body.toLowerCase() == "admin ke ")) {
-     return api.sendMessage("My Creator:Naim ❤️ হাই আমি মেছেন্জার ROBOT  আামার বস Naim আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
+     return api.sendMessage("My Creator:Naim☺️❤️ হাই আমি মেসেঞ্জার ROBOT Alex☢️Smeeth⚠️ আামার বস Naim আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
    };
 
   if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "boter admin")) {
-     return api.sendMessage("He is Naim ッ❤️ তাকে সবাই Naim নামে  চিনে🤙", threadID);
+     return api.sendMessage("He is Hassan Naim ッ❤️ তাকে সবাই Naim নামে  চিনে🤙", threadID);
    };
 
    if ((event.body.toLowerCase() == "ai") || (event.body.toLowerCase() == "Ai")) {
@@ -123,8 +123,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️রাগ করে না সোনা পাখি এতো রাগ শরীরের জন্য ভালো না🥰", threadID);
    };
 
-   if ((event.body.toLowerCase() == "হুম") || (event.body.toLowerCase() == "Hum")) {
-     return api.sendMessage("️হুম চোদাইস না মাথা এমনিতেই গরম আছে🤬⛏️😷", threadID);
+   if ((event.body.toLowerCase() == "হুম") || (event.body.toLowerCase() == "Hmm")) {
+     return api.sendMessage("️ইটের জবাব পাথর দিয়ে দেওয়া যায় কিন্তু হুম এর জবাব কি দিয়ে দিবো..!!🤔🐸", threadID);
    };
 
    if ((event.body.toLowerCase() == "তোর নাম কি") || (event.body.toLowerCase() == "name") || (event.body.toLowerCase() == "Tor nam ki")) {
@@ -143,7 +143,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️Kiss Randi Ka Name Le Ke Mood Khrab Kr Diya.🙄 Dubara Naam Mat Lena Iska", threadID);
    };
 
-   if ((event.body.toLowerCase() == "চুদি") || (event.body.toLowerCase() == "tor nanire xudi")) {
+   if ((event.body.toLowerCase() == "চুদি") || (event.body.toLowerCase() == "tor nanire cudi")) {
      return api.sendMessage("️এত চোদা চুদি করস কেনো তোর টুনটুনি আছে তো থাকলেও তোর ১ ইঞ্চি টুনটুনিতে কোনো কাজ হবে না..!🥱🤣🌚⛏️🌶️ ", threadID);
    };
 
